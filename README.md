@@ -1,0 +1,2 @@
+https://dataplatform.cloud.ibm.com/dashboards/5e817415-c859-492d-836c-fed5a89d8741/view/5528e42b2cbd30d451f2eee4079b2f042961250eb7bbd206808c7b4909662597f36f1ac0c82f4d5b8e195162a7e947589d
+link to Cognos Analytic Capstone project
